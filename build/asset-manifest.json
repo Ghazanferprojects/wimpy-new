@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f24cf005.chunk.css",
+    "main.js": "/static/js/main.d2969b53.chunk.js",
+    "main.js.map": "/static/js/main.d2969b53.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6cf0cb7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6cf0cb7e.js.map",
+    "static/js/2.6fc72c0b.chunk.js": "/static/js/2.6fc72c0b.chunk.js",
+    "static/js/2.6fc72c0b.chunk.js.map": "/static/js/2.6fc72c0b.chunk.js.map",
+    "static/js/3.7fbbb5fe.chunk.js": "/static/js/3.7fbbb5fe.chunk.js",
+    "static/js/3.7fbbb5fe.chunk.js.map": "/static/js/3.7fbbb5fe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f24cf005.chunk.css.map": "/static/css/main.f24cf005.chunk.css.map",
+    "static/js/2.6fc72c0b.chunk.js.LICENSE.txt": "/static/js/2.6fc72c0b.chunk.js.LICENSE.txt",
+    "static/media/DiaryOfAWimpyKidFont-Regular.bb216ffb.ttf": "/static/media/DiaryOfAWimpyKidFont-Regular.bb216ffb.ttf",
+    "static/media/Wimpy-done.3de6c559.png": "/static/media/Wimpy-done.3de6c559.png",
+    "static/media/banner-img.0382e64c.png": "/static/media/banner-img.0382e64c.png",
+    "static/media/banner-img1.b800698b.png": "/static/media/banner-img1.b800698b.png",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff",
+    "static/media/footer1.336bfb46.png": "/static/media/footer1.336bfb46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cf0cb7e.js",
+    "static/js/2.6fc72c0b.chunk.js",
+    "static/css/main.f24cf005.chunk.css",
+    "static/js/main.d2969b53.chunk.js"
+  ]
+}
